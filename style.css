@@ -33,3 +33,15 @@ section {
     padding: 7px;
 
 }
+
+.Cindrella {
+    display: flex;
+    width: 50%;
+
+
+}
+
+.Cindrella img {
+    width: 100%;
+    height: auto;
+}
