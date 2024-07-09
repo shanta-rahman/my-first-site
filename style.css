@@ -1,0 +1,35 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 20px;
+}
+
+.Disney {
+    color: aqua;
+    ba
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+    padding-bottom: 10%;
+    height: 75%;
+}
+
+.Disney-story-btn {
+    text-decoration: none;
+    border-radius: 10px;
+    background-image: linear-gradient(gray, blue);
+    color: white;
+    font-weight: 500;
+    padding: 7px;
+
+}
